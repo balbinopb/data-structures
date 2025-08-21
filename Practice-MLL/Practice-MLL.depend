@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1755623041 source:c:\users\dinub\downloads\data structure\practice-mll\main.cpp
+	"practice_mll.h"
+
+1755623563 source:c:\users\dinub\downloads\data structure\practice-mll\practice_mll.cpp
+	"practice_mll.h"
+
+1755623023 c:\users\dinub\downloads\data structure\practice-mll\practice_mll.h
+	<bits/stdc++.h>
+
+1755621452 source:c:\users\dinub\downloads\data structure\practice-mll\intermediate.cpp
+	"practice_mll.h"
+
+1755622956 source:c:\users\dinub\downloads\data structure\practice-mll\advance_mll.cpp
+	"practice_mll.h"
+
