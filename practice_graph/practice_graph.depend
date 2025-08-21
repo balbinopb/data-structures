@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1755752682 source:c:\users\dinub\downloads\data structure\practice_graph\main.cpp
+	<iostream>
+	"practice_graph.h"
+
+1755630714 c:\users\dinub\downloads\data structure\practice_graph\practice_graph.h
+	<iostream>
+
+1755630833 source:c:\users\dinub\downloads\data structure\practice_graph\practice_graph.cpp
+	"practice_graph.h"
+
+1755752236 source:c:\users\dinub\downloads\data structure\practice_graph\advanced_graph.cpp
+	"practice_graph.h"
+	<iostream>
+	<vector>
+	<queue>
+	<stack>
+
+1755752236 source:c:\users\dinub\downloads\data structure\practice_graph\intermediate_graph.cpp
+	"practice_graph.h"
+
+1755752599 source:c:\users\dinub\downloads\data structure\practice_graph\basic_graph.cpp
+	"practice_graph.h"
+
