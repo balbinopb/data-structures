@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1755419661 source:c:\users\dinub\downloads\data structure\practice_stack\main.cpp
+	<iostream>
+	"practice_stack.h"
+
+1755753616 c:\users\dinub\downloads\data structure\practice_stack\practice_stack.h
+	<iostream>
+
+1755419602 source:c:\users\dinub\downloads\data structure\practice_stack\practice_stack.cpp
+	"practice_stack.h"
+
+1755419602 source:c:\users\dinub\downloads\data structure\practice_stack\basic_stack.cpp
+	"practice_stack.h"
+
+1755754283 source:c:\users\dinub\downloads\data structure\practice_stack\advanced_stack.cpp
+	"practice_stack.h"
+
+1755754216 source:c:\users\dinub\downloads\data structure\practice_stack\intermediate_stack.cpp
+	"practice_stack.h"
+
